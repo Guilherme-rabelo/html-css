@@ -58,7 +58,7 @@ div.video > iframe{
 header{
     background-image:linear-gradient(to bottom, #3ddc84, #1a5c37);
     color: white;
-    margin: 0px;
+    margin: 0%;
    padding: 40px;
 }
 header > h1{
@@ -77,6 +77,7 @@ header > p{
 nav{
     background-color: #1a5c37;
     padding: 10px;
+    margin: 0%;
 }
 nav > a{
 color: #92fcc1;
